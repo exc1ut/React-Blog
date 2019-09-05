@@ -1,0 +1,16 @@
+body {
+    font-family: raleway;
+    background: #F2F2F2;
+}
+.navbar{
+    background: #fff !important;
+}
+.navbar-brand {
+    color: #4676FA !important;
+    text-transform: uppercase;
+}
+
+#socicons {
+    margin-top: 53px;
+    margin-bottom: 38px ;
+}
